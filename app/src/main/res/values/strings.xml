@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Basics with Compose</string>
+    <string name="happy_birthday_text">Happy Birthday Morty!</string>
+    <string name="signature_text">from Jessica</string>
 </resources>
